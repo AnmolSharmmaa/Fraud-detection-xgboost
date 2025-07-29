@@ -18,9 +18,9 @@ This project is a Machine Learning solution for detecting fraudulent financial t
 
 ## 📁 Project Structure
 
--Fraud_Detection.ipynb # Jupyter Notebook with full project
--requirements.txt # Python dependencies
--README.md 
+- Fraud_Detection.ipynb # Jupyter Notebook with full project
+- requirements.txt # Python dependencies
+- README.md 
 
 > 📂 **Note:** Dataset (`Fraud.csv`) is not included due to size. Add your own copy in the working directory.
 
